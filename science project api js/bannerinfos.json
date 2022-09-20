@@ -1,0 +1,13 @@
+{"error":null,"arctic":[
+    {"image":"banner1.jpg",
+    "Column1":0,"p":"Glaciers around the world can range from ice that is several hundred to several thousand years old and provide a scientific record of how climate has changed over time. Through their study, we gain valuable information about the extent to which the planet is rapidly warming. They provide scientists a record of how climate has changed over time.",
+    "head":"Why are glaciers important?"},
+
+    {"image":"banner2.jpg",
+    "Column1":1,"p":"Sea ice forms and melts strictly in the ocean whereas glaciers are formed on land. Icebergs are chunks of glacial ice that break off glaciers and fall into the ocean.When glaciers melt, because that water is stored on land, the runoff significantly increases the amount of water in the ocean, contributing to global sea level rise.",
+    "head":"What is the difference between sea ice and glaciers?"},
+    {"image":"banner3.jpg",
+    "Column1":2,
+    "p":"Even if we significantly curb emissions in the coming decades, more than a third of the world’s remaining glaciers will melt before the year 2100. When it comes to sea ice, 95% of the oldest and thickest ice in the Arctic is already gone.",
+    "head":"Why are glaciers melting?"}]
+}

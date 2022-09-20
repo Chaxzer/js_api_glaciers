@@ -1,0 +1,65 @@
+ #cards1, #cards2 {
+    margin: 70px;
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-evenly;
+    align-content: space-between;
+    flex-direction: row;
+   }
+   
+   .card {
+   margin: 3rem;
+
+   }
+  .bigcard{
+    width: 70rem;
+   margin: 3rem; 
+  }
+
+   .incard{
+    display: flex;
+    height: 70%;
+   }
+
+   #card1st{
+    margin-top: 10rem;
+    margin: 3rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    height: 20%;
+    width: 180rem;
+
+  }
+  
+  #nextpage {
+    display: flex;
+    justify-content: space-evenly;
+
+  }
+  .carousel-item {
+  height: 40%;
+ 
+}
+#bigbox {
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+.card4{
+  height:80% ;
+  width:100% ; 
+  image-rendering: auto;
+}
+#sbanner{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  color: rgb(109, 183, 249);
+  text-shadow: 4px 4px 3px rgba(rgb(255, 255, 255), o.7);
+}
+
+
